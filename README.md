@@ -1,0 +1,1 @@
+# Evolucao_Software_2025-2_DeepResearch_atividade2
