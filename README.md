@@ -14,7 +14,7 @@
 ### DeepResearch - https://github.com/Alibaba-NLP/DeepResearch (Repositório do modelo analisado)
 ---
 ## Vídeo de apresentação dos resultados e síntese do projeto
-### [Acessar vídeo](https://drive.google.com/file/d/1LWLBEVQrYNaxog7Xz0Lq3KmnPvoMZx3o/view?usp=sharing)<br>
+### [Acessar vídeo](https://drive.google.com/file/d/1mzDET2fs4TX35zRRkTenTXPzucnlFj1w/view?usp=drive_link)<br>
 ---
 ## 📚 Sobre o Tutorial
 ---
@@ -266,5 +266,5 @@ Acesse a versão em PDF contendo:
 - Dificuldades e limitações
 - Referências
 
-### [Acessar documento](<caminho>) <br>
+### [Acessar documento](Relátorio e tutorial/ESII-análise-Atividade2.pdf)<br>
 
