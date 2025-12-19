@@ -1,4 +1,4 @@
-# 📘 Análise de Padrões Arquiteturais do DeepResearch com LLMs
+# 📘 Análise do Gerenciamento de Branches do DeepResearch
 ## Equipe 1 - DeepResearch
 | Nome                              | Matrícula     | Descrição da atividade                                                                                   |
 |----------------------------------|---------------|-----------------------------------------------------------------------------------------------------------|
@@ -13,12 +13,14 @@
 
 ### DeepResearch - https://github.com/Alibaba-NLP/DeepResearch (Modelo que será analisado)
 ---
-## Vídeo de apresentação dos resultados do projeto
+## Vídeo de apresentação dos resultados e síntese do projeto
 ### [Acessar vídeo](https://drive.google.com/file/d/1LWLBEVQrYNaxog7Xz0Lq3KmnPvoMZx3o/view?usp=sharing)<br>
 ---
 ## 📚 Sobre o Tutorial
 ---
-Este tutorial apresenta como objetivo demonstrar o processo, passo a passo, de como identificar os padrões arquiteturais do modelo de linguagem DeepResearch a partir de seu repositório no github, utilizando e simulando três grandes modelos de linguagem (LLMs), executados a partir do Google Colab.
+Este tutorial apresenta como objetivo demonstrar o processo, passo a passo, de como identificar as estratégias de branch do modelo de linguagem DeepResearch a partir de seu repositório no github, utilizando e simulando quatri grandes modelos de linguagem (LLMs), executados a partir do Google Colab.
+---
+### A escolha dos quatro modelos: DeepSeek-Coder, Mistral, Phi-3 e Qwen, baseia-se em uma estratégia de multiplas perspectivas, na qual cada arquitetura contribui com uma competência específica para a análise do DeepResearch. O DeepSeek funciona como o especialista técnico, focado em entender a lógica por trás de cada mudança no código. Já o Mistral 7B e o Qwen 2.5 7B oferecem um raciocínio mais generalista e boa flexibilidade linguística, o que os torna adequados para interpretar mensagens de commit, comentários e documentações. Por fim, o Phi-3 Mini se destaca pela eficiência, permitindo a análise de grandes janelas de contexto (até 128 mil tokens) com menor custo computacional. Em conjunto, esses modelos possibilitam uma avaliação da estratégia de branches do DeepResearch a partir de múltiplas perspectivas, combinando suas particularidades em prol da análise.
 ---
 ## 🚀 Opção de Atalho (Recomendado)
 Caso deseje **abrir diretamente o notebook no Google Colab**, sem seguir as etapas iniciais, utilize o link abaixo:
