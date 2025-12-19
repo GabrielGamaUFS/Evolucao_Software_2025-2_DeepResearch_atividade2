@@ -263,8 +263,7 @@ Acesse a versão em PDF contendo:
 - Conclusões estruturadas
 - Comparações entre modelos
 - Tabelas <br>
-- Dificuldades e limitações
 - Referências
 
-### [Acessar documento](Relátorio e tutorial/ESII-análise-Atividade2.pdf)<br>
+### [Acessar documento](docs/ESII-análise-Atividade2.pdf)<br>
 
