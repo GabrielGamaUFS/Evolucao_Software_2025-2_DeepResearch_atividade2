@@ -11,7 +11,7 @@
 | Paloma dos Santos                | 202300061723  | Comparação e análise dos modelos selecionados. Ajuda na criação do modelo do documento .docx (Resposta da análise e tutorial). |
 | Rauany Ingrid Santos de Jesus    | 202300061760  | Introdução de padrões arquiteturais, auxílio na criação do doc de análise, desenvolvimento dos slides e edição do vídeo. |
 
-### DeepResearch - https://github.com/Alibaba-NLP/DeepResearch (Modelo que será analisado)
+### DeepResearch - https://github.com/Alibaba-NLP/DeepResearch (Repositório do modelo analisado)
 ---
 ## Vídeo de apresentação dos resultados e síntese do projeto
 ### [Acessar vídeo](https://drive.google.com/file/d/1LWLBEVQrYNaxog7Xz0Lq3KmnPvoMZx3o/view?usp=sharing)<br>
