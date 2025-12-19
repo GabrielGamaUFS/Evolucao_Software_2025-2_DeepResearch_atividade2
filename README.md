@@ -54,16 +54,21 @@ No ambiente do Google Colab, selecione a célula do código já existente. Caso 
 
 <p align="center"> <img src="assets/tutorial4.jpg" width="70%"> </p>
 
-Em seguida, cole o trecho do código abaixo:
+Em seguida, copie cada bloco de código abaixo e cole em cada celúla no Google Colab:
 
 <details>
-  <summary><strong>📌 Clique para expandir o código completo</strong></summary>
+  <summary><strong>📌 Clique para expandir a 1° célula de código</strong></summary>
 
 ```python
 # 1. Instalar as bibliotecas necessárias
 
 !pip install transformers accelerate torch bitsandbytes
+```
+</details>
+<details>
+  <summary><strong>📌 Clique para expandir a 2° célula de código</strong></summary>
 
+```python
 import os
 
 # Define o diretório de destino no Colab
@@ -77,12 +82,17 @@ if not os.path.exists(repo_dir):
     print("Repositório clonado com sucesso.")
 else:
     print(f"Repositório já existe em {repo_dir}.")
+```
+</details>
+<details>
+  <summary><strong>📌 Clique para expandir a 3° célula de código</strong></summary>
 
+```python
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 import torch
                                                  # Reinicie a sessão sempre que trocar o modelo
 # Nome do modelo que você quer
-model_id = "microsoft/Phi-3-mini-128k-instruct"  # <--- Alterar pelo modelo escolhido:
+model_id = "deepseek-ai/deepseek-coder-6.7b-instruct"  # <--- Alterar pelo modelo escolhido:
                                                  # deepseek-ai/deepseek-coder-6.7b-instruct
 print(f"Carregando {model_id} em 4-bit...")      # codellama/CodeLlama-7b-Instruct-hf
                                                  # mistralai/Mistral-7B-Instruct-v0.3
@@ -106,7 +116,12 @@ model = AutoModelForCausalLM.from_pretrained(
 print("----------------------------------------------------------")
 print(f"Modelo {model_id} carregado com sucesso em 4-bit!")
 print("----------------------------------------------------------")
+```
+</details>
+<details>
+  <summary><strong>📌 Clique para expandir a 4° célula de código</strong></summary>
 
+```python
 import subprocess
 import glob
 
