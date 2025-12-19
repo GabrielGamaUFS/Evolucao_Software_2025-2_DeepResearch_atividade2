@@ -3,11 +3,11 @@
 | Nome                              | Matrícula     | Descrição da atividade                                                                                   |
 |----------------------------------|---------------|-----------------------------------------------------------------------------------------------------------|
 | Álex Santos Alencar              | 202300061518  | Realização da análise manual do projeto no GitHub.                                                       |
-| Ellen Karolliny dos Santos       | 202300114326  | Definição sobre padrões arquiteturais, exemplos sobre os padrões mais conhecidos.                             |
-| Gabriel Luiz Santos Gama Barreto | 202300114335  | Auxílio na construção do prompt dos modelos e do tutorial. Análise dos relatórios gerados pelo deepseek. |
+| Ellen Karolliny dos Santos       | 202300114326  | Análise dos resultados do microsoft/Phi-3-mini                             |
+| Gabriel Luiz Santos Gama Barreto | 202300114335  | Auxílio na construção do prompt dos modelos e análise dos relatórios gerados pelo deepseek coder. |
 | Gabriel Ramos de Carvalho        | 202300061920  | Ajuda na criação do prompt. Apresentação e discussão dos resultados obtidos a partir do MistralAI. |
 | João Andryel Santos Menezes      | 202300061652  | Escolha dos modelos, criação do prompt. Análise dos resultados e apresentação do Phi 3 mini.              |
-| Larissa Batista dos Santos       | 202300061705  | Análise e apresentação dos resultados obtidos utilizando o modelo Qwen2.5.                                        |
+| Larissa Batista dos Santos       | 202300061705  | Auxílio na construção do tutorial, análise e apresentação dos resultados obtidos utilizando o modelo Qwen2.5.                                        |
 | Paloma dos Santos                | 202300061723  | Comparação e análise dos modelos selecionados. Ajuda na criação do modelo do documento .docx (Resposta da análise e tutorial). |
 | Rauany Ingrid Santos de Jesus    | 202300061760  | Introdução de Estratégia de releases e modelo de fluxo de trabalho, bem como definição dos conceitos , exemplificação e definição do objetivo da atividade. Alimentação dos slides. Contribuição no documento de análise. |
 
