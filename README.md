@@ -18,7 +18,7 @@
 ---
 ## 📚 Sobre o Tutorial
 ---
-Este tutorial apresenta como objetivo demonstrar o processo, passo a passo, de como identificar as estratégias de branch do modelo de linguagem DeepResearch a partir de seu repositório no github, utilizando e simulando quatri grandes modelos de linguagem (LLMs), executados a partir do Google Colab.
+Este tutorial apresenta como objetivo demonstrar o processo, passo a passo, de como identificar as estratégias de branch do modelo de linguagem DeepResearch a partir de seu repositório no github, utilizando e simulando quatro grandes modelos de linguagem (LLMs), executados a partir do Google Colab.
 ---
 ### A escolha dos quatro modelos: DeepSeek-Coder, Mistral, Phi-3 e Qwen, baseia-se em uma estratégia de multiplas perspectivas, na qual cada arquitetura contribui com uma competência específica para a análise do DeepResearch. O DeepSeek funciona como o especialista técnico, focado em entender a lógica por trás de cada mudança no código. Já o Mistral 7B e o Qwen 2.5 7B oferecem um raciocínio mais generalista e boa flexibilidade linguística, o que os torna adequados para interpretar mensagens de commit, comentários e documentações. Por fim, o Phi-3 Mini se destaca pela eficiência, permitindo a análise de grandes janelas de contexto (até 128 mil tokens) com menor custo computacional. Em conjunto, esses modelos possibilitam uma avaliação da estratégia de branches do DeepResearch a partir de múltiplas perspectivas, combinando suas particularidades em prol da análise.
 ---
@@ -229,7 +229,7 @@ Após o código estar inserido, pressione o botão “Executar célula” (ícon
 ---
 
 ### 5. Repetição da simulação
-O procedimento pode ser repetido para cada um dos cinco modelos de linguagem utilizados na simulação, bastando substituir, na linha indicada abaixo, pelo modelo preferido.
+O procedimento pode ser repetido para cada um dos quatro modelos de linguagem utilizados na simulação, bastando substituir, na linha indicada abaixo, pelo modelo preferido.
 
 <p align="center"> <img src="assets/tutorial6.jpg" width="70%"> </p>
 
